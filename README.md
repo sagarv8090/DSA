@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sagarv8090/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sagarv8090/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagarv8090/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sagarv8090/DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2591-frog-jump-ii](https://github.com/sagarv8090/DSA/tree/master/2591-frog-jump-ii) |
@@ -109,4 +110,12 @@
 |  |
 | ------- |
 | [2591-frog-jump-ii](https://github.com/sagarv8090/DSA/tree/master/2591-frog-jump-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sagarv8090/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sagarv8090/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
