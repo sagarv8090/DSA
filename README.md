@@ -6,6 +6,7 @@
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sagarv8090/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sagarv8090/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sagarv8090/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagarv8090/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sagarv8090/DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sagarv8090/DSA/tree/master/2586-longest-square-streak-in-an-array) |
@@ -17,6 +18,7 @@
 | ------- |
 | [0670-maximum-swap](https://github.com/sagarv8090/DSA/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/sagarv8090/DSA/tree/master/1304-longest-happy-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sagarv8090/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2591-frog-jump-ii](https://github.com/sagarv8090/DSA/tree/master/2591-frog-jump-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sagarv8090/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/sagarv8090/DSA/tree/master/3195-separate-black-and-white-balls) |
@@ -113,12 +115,14 @@
 ## Binary Search
 |  |
 | ------- |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sagarv8090/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sagarv8090/DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/sagarv8090/DSA/tree/master/2591-frog-jump-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sagarv8090/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sagarv8090/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sagarv8090/DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sagarv8090/DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
