@@ -15,6 +15,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/sagarv8090/DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/sagarv8090/DSA/tree/master/2591-frog-jump-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sagarv8090/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/sagarv8090/DSA/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sagarv8090/DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sagarv8090/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sagarv8090/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -26,6 +27,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sagarv8090/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2591-frog-jump-ii](https://github.com/sagarv8090/DSA/tree/master/2591-frog-jump-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sagarv8090/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/sagarv8090/DSA/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/sagarv8090/DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
 |  |
@@ -52,6 +54,7 @@
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/sagarv8090/DSA/tree/master/0670-maximum-swap) |
+| [2716-prime-subtraction-operation](https://github.com/sagarv8090/DSA/tree/master/2716-prime-subtraction-operation) |
 ## Backtracking
 |  |
 | ------- |
@@ -134,6 +137,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sagarv8090/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sagarv8090/DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/sagarv8090/DSA/tree/master/2591-frog-jump-ii) |
+| [2716-prime-subtraction-operation](https://github.com/sagarv8090/DSA/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,4 +167,8 @@
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sagarv8090/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/sagarv8090/DSA/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
