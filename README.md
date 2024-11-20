@@ -59,6 +59,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sagarv8090/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sagarv8090/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sagarv8090/DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/sagarv8090/DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3195-separate-black-and-white-balls](https://github.com/sagarv8090/DSA/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/sagarv8090/DSA/tree/master/3451-string-compression-iii) |
 ## Math
@@ -105,6 +106,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sagarv8090/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sagarv8090/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sagarv8090/DSA/tree/master/2586-longest-square-streak-in-an-array) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/sagarv8090/DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sagarv8090/DSA/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Tree
 |  |
@@ -190,6 +192,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sagarv8090/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/sagarv8090/DSA/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sagarv8090/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/sagarv8090/DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sagarv8090/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sagarv8090/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Number Theory
