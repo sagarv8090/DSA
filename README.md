@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/sagarv8090/DSA/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sagarv8090/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sagarv8090/DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sagarv8090/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -126,6 +127,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/sagarv8090/DSA/tree/master/0787-sliding-puzzle) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sagarv8090/DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sagarv8090/DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sagarv8090/DSA/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -179,6 +181,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/sagarv8090/DSA/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sagarv8090/DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sagarv8090/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/sagarv8090/DSA/tree/master/1972-rotating-the-box) |
