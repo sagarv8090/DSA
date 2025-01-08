@@ -1,4 +1,4 @@
-        //<----------------Method 2------------------------->//
+
 class Solution {
 public:
     vector<string> stringMatching(vector<string>& words) {
