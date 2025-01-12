@@ -104,6 +104,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sagarv8090/DSA/tree/master/0020-valid-parentheses) |
 | [0812-rotate-string](https://github.com/sagarv8090/DSA/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/sagarv8090/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sagarv8090/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -171,6 +172,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sagarv8090/DSA/tree/master/0020-valid-parentheses) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sagarv8090/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1197-parsing-a-boolean-expression](https://github.com/sagarv8090/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sagarv8090/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
