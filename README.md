@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sagarv8090/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/sagarv8090/DSA/tree/master/0066-plus-one) |
 | [0494-target-sum](https://github.com/sagarv8090/DSA/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sagarv8090/DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sagarv8090/DSA/tree/master/0780-max-chunks-to-make-sorted) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sagarv8090/DSA/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/sagarv8090/DSA/tree/master/0066-plus-one) |
 | [0670-maximum-swap](https://github.com/sagarv8090/DSA/tree/master/0670-maximum-swap) |
 | [2716-prime-subtraction-operation](https://github.com/sagarv8090/DSA/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sagarv8090/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
