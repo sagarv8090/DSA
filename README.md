@@ -403,4 +403,5 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sagarv8090/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/sagarv8090/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
