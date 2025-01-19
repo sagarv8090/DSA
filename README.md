@@ -37,6 +37,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/sagarv8090/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sagarv8090/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sagarv8090/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/sagarv8090/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sagarv8090/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2465-shifting-letters-ii](https://github.com/sagarv8090/DSA/tree/master/2465-shifting-letters-ii) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sagarv8090/DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -335,6 +336,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sagarv8090/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/sagarv8090/DSA/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sagarv8090/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2358-number-of-ways-to-split-array](https://github.com/sagarv8090/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/sagarv8090/DSA/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sagarv8090/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/sagarv8090/DSA/tree/master/3427-special-array-ii) |
