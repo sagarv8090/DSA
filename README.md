@@ -142,6 +142,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sagarv8090/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sagarv8090/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sagarv8090/DSA/tree/master/0066-plus-one) |
 | [0670-maximum-swap](https://github.com/sagarv8090/DSA/tree/master/0670-maximum-swap) |
@@ -171,6 +172,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sagarv8090/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sagarv8090/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [1197-parsing-a-boolean-expression](https://github.com/sagarv8090/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sagarv8090/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -413,6 +415,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sagarv8090/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sagarv8090/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sagarv8090/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
