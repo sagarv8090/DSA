@@ -217,6 +217,7 @@
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/sagarv8090/DSA/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sagarv8090/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sagarv8090/DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sagarv8090/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -228,6 +229,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/sagarv8090/DSA/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sagarv8090/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/sagarv8090/DSA/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sagarv8090/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -256,6 +258,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/sagarv8090/DSA/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sagarv8090/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sagarv8090/DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sagarv8090/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -265,6 +268,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/sagarv8090/DSA/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sagarv8090/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sagarv8090/DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sagarv8090/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
