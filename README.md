@@ -225,6 +225,7 @@
 | ------- |
 | [0112-path-sum](https://github.com/sagarv8090/DSA/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sagarv8090/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0669-trim-a-binary-search-tree](https://github.com/sagarv8090/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sagarv8090/DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sagarv8090/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sagarv8090/DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -268,6 +269,7 @@
 | ------- |
 | [0112-path-sum](https://github.com/sagarv8090/DSA/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sagarv8090/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0669-trim-a-binary-search-tree](https://github.com/sagarv8090/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sagarv8090/DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sagarv8090/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sagarv8090/DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -278,6 +280,7 @@
 | ------- |
 | [0112-path-sum](https://github.com/sagarv8090/DSA/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sagarv8090/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0669-trim-a-binary-search-tree](https://github.com/sagarv8090/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sagarv8090/DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sagarv8090/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2201-valid-arrangement-of-pairs](https://github.com/sagarv8090/DSA/tree/master/2201-valid-arrangement-of-pairs) |
@@ -435,4 +438,8 @@
 | [0002-add-two-numbers](https://github.com/sagarv8090/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sagarv8090/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sagarv8090/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/sagarv8090/DSA/tree/master/0669-trim-a-binary-search-tree) |
 <!---LeetCode Topics End-->
