@@ -112,6 +112,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sagarv8090/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sagarv8090/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/sagarv8090/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sagarv8090/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sagarv8090/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sagarv8090/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sagarv8090/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -209,6 +210,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sagarv8090/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sagarv8090/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sagarv8090/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sagarv8090/DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sagarv8090/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sagarv8090/DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -441,6 +443,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/sagarv8090/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sagarv8090/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sagarv8090/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sagarv8090/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Search Tree
 |  |
 | ------- |
