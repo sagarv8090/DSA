@@ -230,6 +230,7 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sagarv8090/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sagarv8090/DSA/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sagarv8090/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0669-trim-a-binary-search-tree](https://github.com/sagarv8090/DSA/tree/master/0669-trim-a-binary-search-tree) |
@@ -243,6 +244,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sagarv8090/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sagarv8090/DSA/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sagarv8090/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/sagarv8090/DSA/tree/master/0787-sliding-puzzle) |
@@ -274,6 +276,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sagarv8090/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sagarv8090/DSA/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sagarv8090/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0669-trim-a-binary-search-tree](https://github.com/sagarv8090/DSA/tree/master/0669-trim-a-binary-search-tree) |
@@ -285,6 +288,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sagarv8090/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sagarv8090/DSA/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sagarv8090/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0669-trim-a-binary-search-tree](https://github.com/sagarv8090/DSA/tree/master/0669-trim-a-binary-search-tree) |
