@@ -130,6 +130,7 @@
 | [0020-valid-parentheses](https://github.com/sagarv8090/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sagarv8090/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sagarv8090/DSA/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/sagarv8090/DSA/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/sagarv8090/DSA/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/sagarv8090/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sagarv8090/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -214,6 +215,7 @@
 | [0001-two-sum](https://github.com/sagarv8090/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sagarv8090/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sagarv8090/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/sagarv8090/DSA/tree/master/0242-valid-anagram) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sagarv8090/DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sagarv8090/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sagarv8090/DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -261,6 +263,7 @@
 | ------- |
 | [0015-3sum](https://github.com/sagarv8090/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sagarv8090/DSA/tree/master/0016-3sum-closest) |
+| [0242-valid-anagram](https://github.com/sagarv8090/DSA/tree/master/0242-valid-anagram) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sagarv8090/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sagarv8090/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/sagarv8090/DSA/tree/master/2164-two-best-non-overlapping-events) |
