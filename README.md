@@ -154,6 +154,7 @@
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sagarv8090/DSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/sagarv8090/DSA/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sagarv8090/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3379-score-of-a-string](https://github.com/sagarv8090/DSA/tree/master/3379-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/sagarv8090/DSA/tree/master/3451-string-compression-iii) |
 ## Math
 |  |
