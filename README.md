@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/sagarv8090/DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sagarv8090/DSA/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/sagarv8090/DSA/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/sagarv8090/DSA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/sagarv8090/DSA/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/sagarv8090/DSA/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/sagarv8090/DSA/tree/master/0494-target-sum) |
@@ -169,12 +170,14 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sagarv8090/DSA/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/sagarv8090/DSA/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/sagarv8090/DSA/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sagarv8090/DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagarv8090/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sagarv8090/DSA/tree/master/0078-subsets) |
 | [1940-maximum-xor-for-each-query](https://github.com/sagarv8090/DSA/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sagarv8090/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagarv8090/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
