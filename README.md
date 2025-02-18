@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sagarv8090/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sagarv8090/DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sagarv8090/DSA/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/sagarv8090/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sagarv8090/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/sagarv8090/DSA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/sagarv8090/DSA/tree/master/0118-pascals-triangle) |
@@ -162,6 +163,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sagarv8090/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sagarv8090/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/sagarv8090/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sagarv8090/DSA/tree/master/0066-plus-one) |
 | [0670-maximum-swap](https://github.com/sagarv8090/DSA/tree/master/0670-maximum-swap) |
 | [2716-prime-subtraction-operation](https://github.com/sagarv8090/DSA/tree/master/2716-prime-subtraction-operation) |
@@ -361,6 +363,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sagarv8090/DSA/tree/master/0048-rotate-image) |
 | [0787-sliding-puzzle](https://github.com/sagarv8090/DSA/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sagarv8090/DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sagarv8090/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
