@@ -1,29 +1,29 @@
 class Solution {
     private:
-    void solve(int index, vector<int>&candidates,vector<int>&temp,set<vector<int>>&s,int target,int n){
-        if(index>=n || target<0){
-            if(target==0){
-            s.insert(temp);
-            }
+    void solve(int ind,vector<int>& candidates,int target,vector<vector<int>>&ans,vector<int>&temp){
+        if(target==0){
+            ans.push_back(temp);
             return;
         }
-        //pick
-        temp.push_back(candidates[index]);
-        solve(index,candidates,temp,s,target-candidates[index],n);
+        if (ind < 0 || target < 0) {
+            return; // Stop recursion if out of bounds or negative target
+        }
+        //not taking element
+         solve(ind-1,candidates,target,ans,temp);
 
-        //not pick
+        //taking element
+        temp.push_back(candidates[ind]);
+         solve(ind,candidates,target-candidates[ind],ans,temp);
         temp.pop_back();
-        solve(index+1,candidates,temp,s,target,n);
 
+        
     }
-
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<int>temp;
-        set<vector<int>>s;
         int n=candidates.size();
-        solve(0,candidates,temp,s,target,n);
-        vector<vector<int>>res(s.begin(),s.end());
-        return res;
+        vector<vector<int>>ans;
+        vector<int>temp;
+         solve(n-1,candidates,target,ans,temp);
+         return ans;
     }
 };
