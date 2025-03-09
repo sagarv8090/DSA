@@ -20,6 +20,7 @@
 | [0066-plus-one](https://github.com/sagarv8090/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/sagarv8090/DSA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/sagarv8090/DSA/tree/master/0118-pascals-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagarv8090/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/sagarv8090/DSA/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/sagarv8090/DSA/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sagarv8090/DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -344,6 +345,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sagarv8090/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sagarv8090/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sagarv8090/DSA/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagarv8090/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sagarv8090/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sagarv8090/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sagarv8090/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
