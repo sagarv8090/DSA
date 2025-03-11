@@ -16,6 +16,7 @@
 | [0039-combination-sum](https://github.com/sagarv8090/DSA/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/sagarv8090/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sagarv8090/DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/sagarv8090/DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/sagarv8090/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sagarv8090/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/sagarv8090/DSA/tree/master/0078-subsets) |
@@ -368,6 +369,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sagarv8090/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sagarv8090/DSA/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/sagarv8090/DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/sagarv8090/DSA/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/sagarv8090/DSA/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/sagarv8090/DSA/tree/master/0494-target-sum) |
@@ -499,4 +501,8 @@
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/sagarv8090/DSA/tree/master/0669-trim-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sagarv8090/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
