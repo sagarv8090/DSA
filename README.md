@@ -139,6 +139,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sagarv8090/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sagarv8090/DSA/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/sagarv8090/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/sagarv8090/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sagarv8090/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sagarv8090/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sagarv8090/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -175,6 +176,7 @@
 | [0002-add-two-numbers](https://github.com/sagarv8090/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sagarv8090/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sagarv8090/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/sagarv8090/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sagarv8090/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sagarv8090/DSA/tree/master/0066-plus-one) |
 | [0670-maximum-swap](https://github.com/sagarv8090/DSA/tree/master/0670-maximum-swap) |
@@ -238,6 +240,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sagarv8090/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/sagarv8090/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/sagarv8090/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/sagarv8090/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sagarv8090/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sagarv8090/DSA/tree/master/0160-intersection-of-two-linked-lists) |
