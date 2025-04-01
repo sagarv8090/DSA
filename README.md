@@ -19,6 +19,7 @@
 | [0048-rotate-image](https://github.com/sagarv8090/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sagarv8090/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sagarv8090/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sagarv8090/DSA/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/sagarv8090/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sagarv8090/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/sagarv8090/DSA/tree/master/0078-subsets) |
@@ -225,6 +226,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sagarv8090/DSA/tree/master/0054-spiral-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sagarv8090/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/sagarv8090/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sagarv8090/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -400,6 +402,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sagarv8090/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sagarv8090/DSA/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/sagarv8090/DSA/tree/master/0064-minimum-path-sum) |
 | [0787-sliding-puzzle](https://github.com/sagarv8090/DSA/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sagarv8090/DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
