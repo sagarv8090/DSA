@@ -15,6 +15,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sagarv8090/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sagarv8090/DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sagarv8090/DSA/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/sagarv8090/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sagarv8090/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sagarv8090/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sagarv8090/DSA/tree/master/0048-rotate-image) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sagarv8090/DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/sagarv8090/DSA/tree/master/0045-jump-game-ii) |
 | [0670-maximum-swap](https://github.com/sagarv8090/DSA/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sagarv8090/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1304-longest-happy-string](https://github.com/sagarv8090/DSA/tree/master/1304-longest-happy-string) |
@@ -396,6 +398,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sagarv8090/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sagarv8090/DSA/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/sagarv8090/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sagarv8090/DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/sagarv8090/DSA/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/sagarv8090/DSA/tree/master/0118-pascals-triangle) |
