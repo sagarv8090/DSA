@@ -22,6 +22,7 @@
 | [0049-group-anagrams](https://github.com/sagarv8090/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sagarv8090/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sagarv8090/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/sagarv8090/DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sagarv8090/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sagarv8090/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/sagarv8090/DSA/tree/master/0078-subsets) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sagarv8090/DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/sagarv8090/DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/sagarv8090/DSA/tree/master/0055-jump-game) |
 | [0670-maximum-swap](https://github.com/sagarv8090/DSA/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sagarv8090/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1304-longest-happy-string](https://github.com/sagarv8090/DSA/tree/master/1304-longest-happy-string) |
@@ -400,6 +402,7 @@
 | [0022-generate-parentheses](https://github.com/sagarv8090/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/sagarv8090/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sagarv8090/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sagarv8090/DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sagarv8090/DSA/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/sagarv8090/DSA/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/sagarv8090/DSA/tree/master/0494-target-sum) |
