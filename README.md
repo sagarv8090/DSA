@@ -31,6 +31,7 @@
 | [0118-pascals-triangle](https://github.com/sagarv8090/DSA/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/sagarv8090/DSA/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagarv8090/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/sagarv8090/DSA/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/sagarv8090/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sagarv8090/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0494-target-sum](https://github.com/sagarv8090/DSA/tree/master/0494-target-sum) |
@@ -312,6 +313,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/sagarv8090/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sagarv8090/DSA/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/sagarv8090/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/sagarv8090/DSA/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sagarv8090/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/sagarv8090/DSA/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sagarv8090/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -371,6 +373,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/sagarv8090/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sagarv8090/DSA/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/sagarv8090/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/sagarv8090/DSA/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sagarv8090/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0669-trim-a-binary-search-tree](https://github.com/sagarv8090/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sagarv8090/DSA/tree/master/0988-flip-equivalent-binary-trees) |
@@ -439,6 +442,7 @@
 | [0054-spiral-matrix](https://github.com/sagarv8090/DSA/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/sagarv8090/DSA/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/sagarv8090/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/sagarv8090/DSA/tree/master/0200-number-of-islands) |
 | [0787-sliding-puzzle](https://github.com/sagarv8090/DSA/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sagarv8090/DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sagarv8090/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -560,4 +564,5 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/sagarv8090/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/sagarv8090/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
