@@ -35,6 +35,7 @@
 | [0283-move-zeroes](https://github.com/sagarv8090/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sagarv8090/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0494-target-sum](https://github.com/sagarv8090/DSA/tree/master/0494-target-sum) |
+| [0605-can-place-flowers](https://github.com/sagarv8090/DSA/tree/master/0605-can-place-flowers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sagarv8090/DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sagarv8090/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/sagarv8090/DSA/tree/master/0787-sliding-puzzle) |
@@ -96,6 +97,7 @@
 | [0011-container-with-most-water](https://github.com/sagarv8090/DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/sagarv8090/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sagarv8090/DSA/tree/master/0055-jump-game) |
+| [0605-can-place-flowers](https://github.com/sagarv8090/DSA/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/sagarv8090/DSA/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sagarv8090/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1304-longest-happy-string](https://github.com/sagarv8090/DSA/tree/master/1304-longest-happy-string) |
