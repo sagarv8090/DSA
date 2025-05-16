@@ -202,6 +202,7 @@
 | [0048-rotate-image](https://github.com/sagarv8090/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sagarv8090/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sagarv8090/DSA/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/sagarv8090/DSA/tree/master/0070-climbing-stairs) |
 | [0670-maximum-swap](https://github.com/sagarv8090/DSA/tree/master/0670-maximum-swap) |
 | [2716-prime-subtraction-operation](https://github.com/sagarv8090/DSA/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sagarv8090/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -425,6 +426,7 @@
 | [0053-maximum-subarray](https://github.com/sagarv8090/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sagarv8090/DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sagarv8090/DSA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/sagarv8090/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sagarv8090/DSA/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/sagarv8090/DSA/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sagarv8090/DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -569,4 +571,8 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/sagarv8090/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sagarv8090/DSA/tree/master/0200-number-of-islands) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sagarv8090/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
