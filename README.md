@@ -140,6 +140,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sagarv8090/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/sagarv8090/DSA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/sagarv8090/DSA/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/sagarv8090/DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/sagarv8090/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sagarv8090/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/sagarv8090/DSA/tree/master/0283-move-zeroes) |
@@ -562,6 +563,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/sagarv8090/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/sagarv8090/DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sagarv8090/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/sagarv8090/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/sagarv8090/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/sagarv8090/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sagarv8090/DSA/tree/master/0160-intersection-of-two-linked-lists) |
