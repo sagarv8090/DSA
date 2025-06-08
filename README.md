@@ -146,6 +146,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sagarv8090/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/sagarv8090/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sagarv8090/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/sagarv8090/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sagarv8090/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sagarv8090/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sagarv8090/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -207,6 +208,7 @@
 | [0062-unique-paths](https://github.com/sagarv8090/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sagarv8090/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sagarv8090/DSA/tree/master/0070-climbing-stairs) |
+| [0633-sum-of-square-numbers](https://github.com/sagarv8090/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/sagarv8090/DSA/tree/master/0670-maximum-swap) |
 | [2716-prime-subtraction-operation](https://github.com/sagarv8090/DSA/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sagarv8090/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -408,6 +410,7 @@
 | [0035-search-insert-position](https://github.com/sagarv8090/DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagarv8090/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/sagarv8090/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/sagarv8090/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sagarv8090/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sagarv8090/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sagarv8090/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
