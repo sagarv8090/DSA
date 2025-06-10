@@ -228,6 +228,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sagarv8090/DSA/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/sagarv8090/DSA/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/sagarv8090/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/sagarv8090/DSA/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sagarv8090/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -583,6 +584,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sagarv8090/DSA/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/sagarv8090/DSA/tree/master/0191-number-of-1-bits) |
 ## Union Find
 |  |
 | ------- |
