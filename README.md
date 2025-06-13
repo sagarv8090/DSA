@@ -172,6 +172,7 @@
 | [0049-group-anagrams](https://github.com/sagarv8090/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sagarv8090/DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/sagarv8090/DSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/sagarv8090/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/sagarv8090/DSA/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/sagarv8090/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sagarv8090/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -283,6 +284,7 @@
 | [0141-linked-list-cycle](https://github.com/sagarv8090/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sagarv8090/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/sagarv8090/DSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/sagarv8090/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sagarv8090/DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sagarv8090/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sagarv8090/DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -481,6 +483,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sagarv8090/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sagarv8090/DSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sagarv8090/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sagarv8090/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -523,6 +526,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sagarv8090/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sagarv8090/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/sagarv8090/DSA/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
