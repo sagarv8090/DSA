@@ -34,6 +34,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagarv8090/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/sagarv8090/DSA/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/sagarv8090/DSA/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/sagarv8090/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sagarv8090/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sagarv8090/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0494-target-sum](https://github.com/sagarv8090/DSA/tree/master/0494-target-sum) |
@@ -212,6 +213,7 @@
 | [0062-unique-paths](https://github.com/sagarv8090/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sagarv8090/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sagarv8090/DSA/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/sagarv8090/DSA/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/sagarv8090/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/sagarv8090/DSA/tree/master/0670-maximum-swap) |
 | [2716-prime-subtraction-operation](https://github.com/sagarv8090/DSA/tree/master/2716-prime-subtraction-operation) |
@@ -233,6 +235,7 @@
 | ------- |
 | [0078-subsets](https://github.com/sagarv8090/DSA/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/sagarv8090/DSA/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/sagarv8090/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sagarv8090/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/sagarv8090/DSA/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sagarv8090/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -287,6 +290,7 @@
 | [0141-linked-list-cycle](https://github.com/sagarv8090/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sagarv8090/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/sagarv8090/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sagarv8090/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sagarv8090/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sagarv8090/DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sagarv8090/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -353,6 +357,7 @@
 | [0056-merge-intervals](https://github.com/sagarv8090/DSA/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/sagarv8090/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sagarv8090/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sagarv8090/DSA/tree/master/0268-missing-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sagarv8090/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sagarv8090/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/sagarv8090/DSA/tree/master/2164-two-best-non-overlapping-events) |
@@ -416,6 +421,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sagarv8090/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sagarv8090/DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagarv8090/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/sagarv8090/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sagarv8090/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/sagarv8090/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sagarv8090/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
