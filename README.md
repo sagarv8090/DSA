@@ -107,6 +107,7 @@
 | [0670-maximum-swap](https://github.com/sagarv8090/DSA/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sagarv8090/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1304-longest-happy-string](https://github.com/sagarv8090/DSA/tree/master/1304-longest-happy-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/sagarv8090/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sagarv8090/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/sagarv8090/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/sagarv8090/DSA/tree/master/2089-maximum-matrix-sum) |
@@ -184,6 +185,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/sagarv8090/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sagarv8090/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/sagarv8090/DSA/tree/master/1304-longest-happy-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/sagarv8090/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sagarv8090/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/sagarv8090/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sagarv8090/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -498,6 +500,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sagarv8090/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/sagarv8090/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sagarv8090/DSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sagarv8090/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sagarv8090/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
