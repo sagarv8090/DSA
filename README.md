@@ -28,6 +28,7 @@
 | [0064-minimum-path-sum](https://github.com/sagarv8090/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sagarv8090/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/sagarv8090/DSA/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/sagarv8090/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sagarv8090/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarv8090/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/sagarv8090/DSA/tree/master/0130-surrounded-regions) |
@@ -149,6 +150,7 @@
 | [0031-next-permutation](https://github.com/sagarv8090/DSA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/sagarv8090/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/sagarv8090/DSA/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/sagarv8090/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sagarv8090/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sagarv8090/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/sagarv8090/DSA/tree/master/0283-move-zeroes) |
@@ -363,6 +365,7 @@
 | [0047-permutations-ii](https://github.com/sagarv8090/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sagarv8090/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sagarv8090/DSA/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/sagarv8090/DSA/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/sagarv8090/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sagarv8090/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sagarv8090/DSA/tree/master/0268-missing-number) |
