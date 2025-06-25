@@ -609,6 +609,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sagarv8090/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sagarv8090/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sagarv8090/DSA/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/sagarv8090/DSA/tree/master/0328-odd-even-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
