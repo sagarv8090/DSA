@@ -40,6 +40,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sagarv8090/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/sagarv8090/DSA/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/sagarv8090/DSA/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/sagarv8090/DSA/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/sagarv8090/DSA/tree/master/0605-can-place-flowers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sagarv8090/DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sagarv8090/DSA/tree/master/0780-max-chunks-to-make-sorted) |
@@ -352,6 +353,7 @@
 | [0200-number-of-islands](https://github.com/sagarv8090/DSA/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/sagarv8090/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sagarv8090/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/sagarv8090/DSA/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/sagarv8090/DSA/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sagarv8090/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sagarv8090/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -477,6 +479,7 @@
 | [0118-pascals-triangle](https://github.com/sagarv8090/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarv8090/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/sagarv8090/DSA/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/sagarv8090/DSA/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sagarv8090/DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/sagarv8090/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sagarv8090/DSA/tree/master/1063-best-sightseeing-pair) |
@@ -496,6 +499,7 @@
 | [0064-minimum-path-sum](https://github.com/sagarv8090/DSA/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/sagarv8090/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sagarv8090/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/sagarv8090/DSA/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/sagarv8090/DSA/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sagarv8090/DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sagarv8090/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
