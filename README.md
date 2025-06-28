@@ -47,6 +47,7 @@
 | [0787-sliding-puzzle](https://github.com/sagarv8090/DSA/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sagarv8090/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/sagarv8090/DSA/tree/master/1025-minimum-cost-for-tickets) |
+| [1044-find-common-characters](https://github.com/sagarv8090/DSA/tree/master/1044-find-common-characters) |
 | [1063-best-sightseeing-pair](https://github.com/sagarv8090/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sagarv8090/DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sagarv8090/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -188,6 +189,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/sagarv8090/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/sagarv8090/DSA/tree/master/0409-longest-palindrome) |
 | [0812-rotate-string](https://github.com/sagarv8090/DSA/tree/master/0812-rotate-string) |
+| [1044-find-common-characters](https://github.com/sagarv8090/DSA/tree/master/1044-find-common-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/sagarv8090/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sagarv8090/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/sagarv8090/DSA/tree/master/1304-longest-happy-string) |
@@ -304,6 +306,7 @@
 | [0268-missing-number](https://github.com/sagarv8090/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sagarv8090/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/sagarv8090/DSA/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/sagarv8090/DSA/tree/master/1044-find-common-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sagarv8090/DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sagarv8090/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sagarv8090/DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
