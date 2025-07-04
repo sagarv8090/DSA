@@ -159,6 +159,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sagarv8090/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/sagarv8090/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sagarv8090/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/sagarv8090/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sagarv8090/DSA/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/sagarv8090/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sagarv8090/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -188,6 +189,7 @@
 | [0179-largest-number](https://github.com/sagarv8090/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sagarv8090/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sagarv8090/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/sagarv8090/DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/sagarv8090/DSA/tree/master/0409-longest-palindrome) |
 | [0812-rotate-string](https://github.com/sagarv8090/DSA/tree/master/0812-rotate-string) |
 | [1044-find-common-characters](https://github.com/sagarv8090/DSA/tree/master/1044-find-common-characters) |
@@ -487,6 +489,7 @@
 | [0070-climbing-stairs](https://github.com/sagarv8090/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sagarv8090/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarv8090/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/sagarv8090/DSA/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/sagarv8090/DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/sagarv8090/DSA/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sagarv8090/DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
