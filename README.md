@@ -187,6 +187,7 @@
 | [0049-group-anagrams](https://github.com/sagarv8090/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sagarv8090/DSA/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/sagarv8090/DSA/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sagarv8090/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/sagarv8090/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sagarv8090/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sagarv8090/DSA/tree/master/0392-is-subsequence) |
@@ -229,6 +230,7 @@
 | [0062-unique-paths](https://github.com/sagarv8090/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sagarv8090/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sagarv8090/DSA/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sagarv8090/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/sagarv8090/DSA/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/sagarv8090/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/sagarv8090/DSA/tree/master/0670-maximum-swap) |
@@ -274,6 +276,7 @@
 | [0050-powx-n](https://github.com/sagarv8090/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/sagarv8090/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sagarv8090/DSA/tree/master/0206-reverse-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sagarv8090/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/sagarv8090/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sagarv8090/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Simulation
@@ -489,6 +492,7 @@
 | [0070-climbing-stairs](https://github.com/sagarv8090/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sagarv8090/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarv8090/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sagarv8090/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/sagarv8090/DSA/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/sagarv8090/DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/sagarv8090/DSA/tree/master/0542-01-matrix) |
@@ -650,6 +654,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sagarv8090/DSA/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sagarv8090/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Combinatorics
 |  |
 | ------- |
